@@ -5,6 +5,7 @@ body {
 h1 {
     font-family: Monoton;
     font-size: 70px;
+    color: blue;
     margin: 0.2em;
 }
 
