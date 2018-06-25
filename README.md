@@ -6,4 +6,5 @@ In this challenge, we were given a project to create a web app that allows the u
 This project has allowed me to use most if not all of the skills I have learnt throughout this lovely program.
 
 Its a fun app hope you have lots of fun playing around with it.
+
 Enjoy the app! https://monicahmbogo.github.io/Pixel-art-maker/ 
